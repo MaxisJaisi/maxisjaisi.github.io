@@ -21,7 +21,7 @@ This is a collection of my blog posts.
         <ul class="posts-list">
     {% endif %}
   {% endunless %}
-  <li><span class="date">{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{% if post.draft %} (draft){% endif %}
+  <li><span class="date">{{ post.date | date: "%d %b, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{% if post.draft %} (draft){% endif %}
 {% endfor %}
 
 
