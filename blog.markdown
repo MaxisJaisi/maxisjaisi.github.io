@@ -6,14 +6,22 @@ permalink: /blog/
 
 This is a collection of my blog posts.
 
-{% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
-    <ul>
-    {% assign date = currentdate %}
-  {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
+<ul>
+
+{%for post in site.posts %}
+  {% unless post.next %}
+    <h2 class="posts-list">{{ post.date | date: '%Y' }}</h2>
+    <ul class="posts-list">
+  {% else %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% capture nextyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    {% if year != nextyear %}
+        </ul>
+        <h2 class="posts-list">{{ post.date | date: '%Y' }}</h2>
+        <ul class="posts-list">
+    {% endif %}
+  {% endunless %}
+  <li><span class="date">{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{% if post.draft %} (draft){% endif %}
 {% endfor %}
+
+
