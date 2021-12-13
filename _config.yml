@@ -26,7 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://maxisjaisi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxisjaisi
 github_username:  MaxisJaisi
-
 show_excerpts: true
 # Build settings
 theme: minima
@@ -34,7 +33,8 @@ plugins:
   - jekyll-feed
 
 minima:
-  date_format: "%d %-b, %Y"
+  # date_format: "%d %-b, %Y"
+  timezone: Asia/Kuala_Lumpur
 
 permalink: /blog/:year/:month/:day/:title/
 
