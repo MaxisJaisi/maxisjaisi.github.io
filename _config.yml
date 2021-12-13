@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  # date_format: "%d %-b, %Y"
+  date_format: "%-d %-b, %Y"
   timezone: Asia/Kuala_Lumpur
 
 permalink: /blog/:year/:month/:day/:title/
