@@ -33,7 +33,7 @@ layout: default
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  Posted under: <a href="{{site.baseurl}}/blog/categories/#{{category|slugize}}">{{category}}</a>
+  Posted under: <a href="{{site.baseurl}}/blog/categories#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
