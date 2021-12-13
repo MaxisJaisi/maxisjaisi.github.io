@@ -27,6 +27,7 @@ url: "http://maxisjaisi.github.io" # the base hostname & protocol for your site,
 twitter_username: maxisjaisi
 github_username:  MaxisJaisi
 
+show_excerpts: true
 # Build settings
 theme: minima
 plugins:
@@ -34,6 +35,13 @@ plugins:
 
 minima:
   date_format: "%d %-b, %Y"
+
+permalink: /blog/:year/:month/:day/:title/
+
+header_pages:
+  - about.md
+  - blog.md
+  - writing.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -56,3 +64,4 @@ minima:
 #
 #   # Google Analytics
 google_analytics: G-YRCTL1SVK0
+

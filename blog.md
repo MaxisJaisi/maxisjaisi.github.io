@@ -1,27 +1,10 @@
 ---
-layout: page
+layout: blog
 title: Blog
 permalink: /blog/
 ---
 
-This is a collection of my blog posts.
+My blog. You can also view a complete list according to [labels](/blog/categories) or [date posted](/blog/year):
 
-<ul>
-
-{%for post in site.posts %}
-  {% unless post.next %}
-    <h2 class="posts-list">{{ post.date | date: '%Y' }}</h2>
-    <ul class="posts-list">
-  {% else %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture nextyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-    {% if year != nextyear %}
-        </ul>
-        <h2 class="posts-list">{{ post.date | date: '%Y' }}</h2>
-        <ul class="posts-list">
-    {% endif %}
-  {% endunless %}
-  <li><span class="date">{{ post.date | date: "%d %b, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{% if post.draft %} (draft){% endif %}
-{% endfor %}
 
 

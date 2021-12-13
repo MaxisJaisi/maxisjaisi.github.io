@@ -1,0 +1,23 @@
+---
+layout: page-no-title
+title: Categories
+permalink: /blog/categories
+---
+<h1>Labels:</h1>
+
+<ul>
+  {% assign categories = site.categories | sort %}
+  {% for category in categories %}
+    <li><a href="#{{ category[0] | slugify }}">{{ category[0] }} ({{ category | last | size }})</a>
+  {% endfor %}
+</ul>
+
+{% for category in categories %}
+<h4 class="posts-list" id="{{ category[0] | slugify }}">{{ category[0] }}</h4>
+
+<ul class="posts-list">
+  {% for post in category[1] %}
+  <li><span class="date">{{ post.date | date: "%d %b, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endfor %}
