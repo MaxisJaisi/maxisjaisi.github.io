@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
 a { color: #76B1B1; text-decoration: none; }
-a:visited { color: #609696; }
+a:visited { color: #B58FBA; }
 a:hover { color: #3ebee6; text-decoration: underline; }
 
 /** Blockquotes */
@@ -51,7 +51,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .wrapper:after, .footer-col-wrapper:after { content: ""; display: table; clear: both; }
 
 /** Icons */
-.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px; vertical-align: text-top; }
+.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #ffffff; padding-right: 5px; vertical-align: text-top; }
 
 .social-media-list li + li { padding-top: 5px; }
 
