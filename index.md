@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hello! I hope you enjoy your stay here.
+Hello! I hope you'll find something interesting here. 
