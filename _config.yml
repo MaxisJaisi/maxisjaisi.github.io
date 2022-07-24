@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Maxis Jaisi
-email: maxisjaisi@gmail.com
+email: maxis@umd.edu
 description: >- 
   Online repository.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://maxisjaisi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maxisjaisi
+twitter_username: Maxis_Jaisi
 github_username:  MaxisJaisi
 show_excerpts: true
 # Build settings
