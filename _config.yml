@@ -34,7 +34,7 @@ plugins:
 
 minima:
   date_format: "%-d %-b, %Y"
-  timezone: Asia/Kuala_Lumpur
+  timezone: America/New_York
 
 permalink: /blog/:year/:month/:day/:title/
 

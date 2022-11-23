@@ -4,7 +4,6 @@ title: Writing
 permalink: /writing/
 ---
 
-It is a deep fact of our universe that $3 < \pi < 4$.
+This is under construction. Meanwhile, please enjoy this diagram which shows the inductive cell structure of $\mathbf{RP}^{n}$.
 
-
-
+![Cell structure of real projective space](\assets\pictures\main\projective_cell_structure.png)

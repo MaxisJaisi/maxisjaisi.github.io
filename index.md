@@ -5,4 +5,7 @@
 layout: home
 ---
 
-Hello! I hope you'll find something interesting here. 
+Hello! I'm Maxis, a first year mathematics graduate student at the [University of Maryland, College Park](https://www-math.umd.edu/). Click [here](\about) to know more about me.
+
+
+

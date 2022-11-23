@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a photograph of me.
+I spent the first 26 years of my life in Malaysia, before coming to the US to pursue my graduate studies. This is my first time being abroad! 
