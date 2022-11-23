@@ -4,4 +4,4 @@ title: About me
 permalink: /about/
 ---
 
-Here is my [CV](\assets\pdf\CV.pdf).
+Here is my [CV](\assets\pdf\cv.pdf).
