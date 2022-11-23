@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-I spent the first 26 years of my life in Malaysia, before coming to the US to pursue my graduate studies. This is my first time being abroad! 
+Here is my [CV](\assets\pdf\CV.pdf).
