@@ -40,7 +40,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 header_pages:
   - personal.md
-  - CV.md
+  - cv.md
   - blog.md
   - writing.md
 # Exclude from processing.
