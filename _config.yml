@@ -39,7 +39,8 @@ minima:
 permalink: /blog/:year/:month/:day/:title/
 
 header_pages:
-  - about.md
+  - personal.md
+  - CV.md
   - blog.md
   - writing.md
 # Exclude from processing.
