@@ -1,10 +1,12 @@
 ---
 layout: blog
 title: Blog
-permalink: /blog/
+permalink: /Blog/
 ---
 
-My blog. You can also view a complete list according to [labels](/blog/categories) or [date posted](/blog/year).
+This space may contain more personal updates and thoughts as well.
+
+You can also view a complete list according to [labels](/blog/categories) or [date posted](/blog/year).
 
 
 
