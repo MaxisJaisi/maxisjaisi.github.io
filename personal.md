@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal
-permalink: /Personal/
+permalink: /personal/
 ---
 
 I am interested in the stories of people, and the diversity and richness of human experience. I hope to illustrate parts of my own story here, outside of the narrow confines of my professional interests or academic work.

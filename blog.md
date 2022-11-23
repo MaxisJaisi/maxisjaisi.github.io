@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blog
-permalink: /Blog/
+permalink: /blog/
 ---
 
 This space may contain more personal updates and thoughts as well.

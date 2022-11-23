@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /Research/ 
+permalink: /research/ 
 ---
 
 I'm still at the learning stage of my career for now. Hopefully I can say more soon!
