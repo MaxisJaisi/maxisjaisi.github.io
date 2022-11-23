@@ -4,6 +4,6 @@ title: Writing
 permalink: /writing/
 ---
 
-This is under construction. Meanwhile, please enjoy this diagram which shows the inductive cell structure of $\mathbf{RP}^{n}$.
+This is under construction. My aim is to put my more polished written works (relative to my blog posts) here, mathematical or otherwise. 
 
-![Cell structure of real projective space](\assets\pictures\main\projective_cell_structure.png)
+

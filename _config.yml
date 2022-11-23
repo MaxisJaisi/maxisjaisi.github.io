@@ -40,6 +40,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 header_pages:
   - personal.md
+  - research.md
   - cv.md
   - blog.md
   - writing.md
