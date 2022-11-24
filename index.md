@@ -9,5 +9,7 @@ Hello! I'm Maxis, a first-year graduate student in the [mathematics department](
 
 Click [here](\personal) to know more about me.
 
-
+<p align = "center">
+<img src="\assets\pictures\main\bike.jpg" width="50%" height="50%">
+</p>
 
