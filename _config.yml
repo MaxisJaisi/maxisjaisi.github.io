@@ -21,11 +21,8 @@
 title: Maxis Jaisi
 email: maxis@umd.edu
 description: >- 
-  Online repository.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://maxisjaisi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Maxis_Jaisi
-github_username:  MaxisJaisi
 show_excerpts: true
 # Build settings
 theme: minima
@@ -40,8 +37,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 header_pages:
   - personal.md
-  - research.md
-  - cv.md
+  - academic.md
   - blog.md
   - writing.md
 # Exclude from processing.
