@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hello! I'm Maxis, a first-year graduate student in the [mathematics department](https://www-math.umd.edu/) at the University of Maryland, College Park. I obtained my bachelor of science degree in mathematics from Xiamen University Malaysia in 2021.
+Hello! I'm Maxis, a third year math PhD student in the [mathematics department](https://www-math.umd.edu/) at the University of Maryland, College Park. I obtained my bachelor of science degree in mathematics from Xiamen University Malaysia in 2021. Outside of work I like taking naps, as I only work best when I get enough rest.
 
 Click [here](\personal) to know more about me.
 
