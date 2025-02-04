@@ -4,7 +4,7 @@ title: Research
 permalink: /research/ 
 ---
 
-I'm still at the learning stage of my career for now. Hopefully I can say more soon!
+I'm mostly interested in symplectic and contact topology. Hopefully I can say more soon!
 
 Meanwhile, please enjoy this diagram which shows the inductive cell structure of $\mathbf{RP}^{n}$.
 
