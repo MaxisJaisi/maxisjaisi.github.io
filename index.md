@@ -5,9 +5,9 @@
 layout: home
 ---
 
-Hello! I'm Maxis, a third year math PhD student in the [mathematics department](https://www-math.umd.edu/) at the University of Maryland, College Park. I obtained my bachelor of science degree in mathematics from Xiamen University Malaysia in 2021. Outside of work I like taking naps, as I only work best when I get enough rest.
+Welcome! I'm Maxis, a math PhD student in the [Mathematics Department](https://www-math.umd.edu/) at the University of Maryland, College Park. I started in August 2022. Outside of work I like taking naps, as I only work best when I get enough rest.
 
- Mathematics is only one out of many other things I'm interested in. I say more [here](\personal), where I talk a little bit more about my personal background.
+ Mathematics is only one out of many other things I'm interested in. I share more about this and a little about my personal background [here](\personal).
 
 <p align = "center">
 <img src="\assets\pictures\main\bike.jpg" width="50%" height="50%">
