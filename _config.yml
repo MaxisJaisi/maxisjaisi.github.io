@@ -39,7 +39,7 @@ header_pages:
   - personal.md
   - academic.md
   - blog.md
-  - writing.md
+  - resources.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
